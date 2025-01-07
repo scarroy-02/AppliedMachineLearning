@@ -1,1 +1,1 @@
-# AppliedMachineLearning
+# Applied Machine Learning (AML) Repository
