@@ -1,7 +1,3 @@
-import joblib
-import sklearn
-import numpy as np
-
 def score(text: str, 
           model: dict, 
           threshold: float) -> tuple[bool, float]:

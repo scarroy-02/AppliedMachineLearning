@@ -1,9 +1,4 @@
-import os
-import sys
-import json
-import pytest
 import joblib
-import numpy as np
 import requests
 import time
 import subprocess
